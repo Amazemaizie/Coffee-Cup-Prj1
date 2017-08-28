@@ -31,11 +31,21 @@ li:before {
   font-family: 'FontAwesome';
     float: left;
   margin-left: -1.5em;
-  color: 8B4513;
+  color: #8B4513;
 }
+
+/*.wrapper1 {
+  font-size: 24px;
+  background-color: green;
+  text-align: center;
+}*/
+
 footer {
   font-size: 18px;
   background-color: #413a34;
   color: #fefdfc;
   text-align: center;
 }
+/*#wrap1{
+background-color: red;
+}*/
